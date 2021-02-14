@@ -1,0 +1,15 @@
+{
+  "name": "meinesite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d principal"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://ahmed-rs.github.io/MeineSite",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
